@@ -14,7 +14,7 @@ type: book # Do not modify.
 
 ## Flexibility
 
-Document everything!
+Document everything and anything!
 
 This feature can be used for publishing content such as:
 
